@@ -1,0 +1,7 @@
+#include <stdio.h>
+
+int main()
+{
+    if (puts("Product based MNC")) {}
+    if (puts("Service based MNC")) {}
+}
